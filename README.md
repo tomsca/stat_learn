@@ -1,3 +1,5 @@
-# MA 530: Introduction to Statistical Learning
 ## Course Information
-### Resources
+
+## Resources
+
+## Unit 0: R Programming
