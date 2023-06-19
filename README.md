@@ -12,7 +12,7 @@
     - [ISLR First Edition](https://www.statlearning.com/resources-first-edition)
 
 ## Unit 0: R Programming 
-- Class Notes: [Click me!]() R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
+- Class Notes: [Click me!](https://github.com/tomsca/stat_learn/blob/main/ma530_r_programming.ipynb) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
   - Homework 0: [Click me!]() Project 0: [Click me!]() 
 
 ## Unit 1: Introduction to Statistical Learning
