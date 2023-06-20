@@ -1,5 +1,6 @@
 title: MA 530 Statistical Learning
-logo: https://marketbusinessnews.com/wp-content/uploads/2019/03/Statistical-Learning-image-1.jpg
+#logo: https://marketbusinessnews.com/wp-content/uploads/2019/03/Statistical-Learning-image-1.jpg
+logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeFSVG8kXtI-WJB5sQEPMfn8I8LSenkvhl9A&usqp=CAU
 description: Fall 2023
 show_download: true
 theme: jekyll-theme-minimal
