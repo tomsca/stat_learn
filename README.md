@@ -11,6 +11,8 @@
 - **R Materials:**
     - [ISLR Second Edition](https://www.statlearning.com/resources-second-edition)
     - [ISLR First Edition](https://www.statlearning.com/resources-first-edition)
+- **Python Material:**
+    - [ISLR-python First Edition](https://github.com/JWarmenhoven/ISLR-python/tree/master)
 
 ## Unit 0: R Programming 
 - Class Notes: [Click me!](https://intellipaat.com/blog/tutorial/r-programming/?US) [Click me!](https://www.guru99.com/r-tutorial.html) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
