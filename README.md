@@ -1,19 +1,19 @@
 ## Course Information
-- **Term:** *Fall 2023*
-- **Instructor:** *Dr. Emmanuel Thompson*
-    - **Instructor Brief Bio!** [*Click me!*](https://semo.edu/people-directory/faculty-staff/thompson-emmanuel.html)
-    - **Personal Website** [*Click me!*](https://ethompsonact.com/)
+- **Term:** Fall 2023
+- **Instructor:** Dr. Emmanuel Thompson
+    - **Instructor Brief Bio!** [Click me!](https://semo.edu/people-directory/faculty-staff/thompson-emmanuel.html)
+    - **Personal Website** [Click me!](https://ethompsonact.com/)
 - **Syllabus: Click me!**
 
 ## Resources
 - **Textbook:**
-    - [*An Introduction to Statistical Learning (Second Edition)*](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
+    - [An Introduction to Statistical Learning (Second Edition)](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)
 - **R Materials:**
-    - [*ISLR Second Edition*](https://www.statlearning.com/resources-second-edition)
-    - [*ISLR First Edition*](https://www.statlearning.com/resources-first-edition)
+    - [ISLR Second Edition](https://www.statlearning.com/resources-second-edition)
+    - [ISLR First Edition](https://www.statlearning.com/resources-first-edition)
 
 ## Unit 0: R Programming 
-- Class Notes: [Click me!](https://github.com/tomsca/stat_learn/blob/main/MA530_R_Programming.ipynb) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
+- Class Notes: [Click me!](https://intellipaat.com/blog/tutorial/r-programming/data-visualization-in-r/?US) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
   - Homework 0: [Click me!]() Project 0: [Click me!]() 
 
 ## Unit 1: Introduction to Statistical Learning
