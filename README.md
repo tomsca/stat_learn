@@ -13,7 +13,7 @@
     - [ISLR First Edition](https://www.statlearning.com/resources-first-edition)
 
 ## Unit 0: R Programming 
-- Class Notes: [Click me!](https://intellipaat.com/blog/tutorial/r-programming/?US) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
+- Class Notes: [Click me!](https://intellipaat.com/blog/tutorial/r-programming/?US) [Click me!](https://www.guru99.com/r-tutorial.html) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
   - Homework 0: [Click me!]() Project 0: [Click me!]() 
 
 ## Unit 1: Introduction to Statistical Learning
