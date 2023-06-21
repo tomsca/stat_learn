@@ -12,7 +12,7 @@
     - [ISLR Second Edition](https://www.statlearning.com/resources-second-edition)
     - [ISLR First Edition](https://www.statlearning.com/resources-first-edition)
 - **Python Materials:**
-      - [ISLR-python Second Edition](https://github.com/qx0731/Sharing_ISL_python)
+    - [ISLR-python Second Edition](https://github.com/qx0731/Sharing_ISL_python)
     - [ISLR-python First Edition](https://github.com/JWarmenhoven/ISLR-python/tree/master)
 
 ## Unit 0: R Programming 
