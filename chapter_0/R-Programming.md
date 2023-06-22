@@ -63,7 +63,7 @@ print(total_cost)
 print("Is this the final result?")
 ```
 
-### Variables in R Programming
+### Variables in R
 
 - A variable is a name given to a memory location, which is used to store values in a computer program.
 - Variables in R programming can be used to store numbers (real and complex), words, matrices, and even tables.
@@ -73,6 +73,27 @@ print("Is this the final result?")
     - It should not start with a dot followed by a number (eg:- .7mauch)
     - It should not start with an underscore (eg:- _mauch)
     - It should not be a reserved word (see this [link](https://www.datamentor.io/r-programming/reserved-words#:~:text=Reserved%20words%20in%20R%20programming,%2C%20function%20name%20etc.))for detail!
+
+- **Constants in R:** The characteristic whose values are fixed are called constants. In R, there are two types of constants:
+    - Numeric Constants: All numeric values such as integer, double, or complex fall under this category. Numeric constants followed by ‘L’ and ‘i’ are considered as integer and complex respectively. And, numeric constants preceded by 0x/0X are treated as hexadecimal numbers.
+    - Character Constants: These constants are represented by single (‘) or double (“) quotes called delimiters.
+
+### Data Types in R 
+
+- The basic data types in R are as follows:
+    - Numeric:
+     ```r
+    # In R, if we assign any decimal value to a variable it becomes a variable of a numeric data type.
+    # For example, the statement below assigns a numeric data type to the variable “x”.
+     x = 20.7
+     # The following statement is used to print the data type of the variable “x”:
+     class(x)
+     ```
+     
+    - Integer
+    - Complex
+    - Character
+    - Logical
 
 ## Resources
 - Learn R in 39 Minutes [Click me!](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
