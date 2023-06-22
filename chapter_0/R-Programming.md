@@ -82,13 +82,22 @@ print("Is this the final result?")
 
 - The basic data types in R are as follows:
     - Numeric:
-     ```r
-    # In R, if we assign any decimal value to a variable it becomes a variable of a numeric data type.
-    # For example, the statement below assigns a numeric data type to the variable “x”.
-     x = 20.7
-     # The following statement is used to print the data type of the variable “x”:
-     class(x)
-     ```
+```r
+# In R, if we assign any decimal value to a variable it becomes a variable of a numeric data type.
+# For example, the statement below assigns a numeric data type to the variable “x”.
+x = 20.7
+# The following statement is used to print the data type of the variable “x”:
+class(x)
+```
+```r
+# OUTPUT
+> # In R, if we assign any decimal value to a variable it becomes a variable of a numeric data type.
+> # For example, the statement below assigns a numeric data type to the variable “x”.
+> x = 20.7
+> # The following statement is used to print the data type of the variable “x”:
+> class(x)
+[1] "numeric"
+```
      
     - Integer
     - Complex
