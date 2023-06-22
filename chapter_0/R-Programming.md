@@ -161,6 +161,12 @@ Output:
 ```
 
 ## Operators in R
+### R Operators
+- Arithmetic Operators
+- Assignment Operators
+- Logical Operators
+- Relational Operators
+- Miscellaneous Operators
 
 
 ## Resources
