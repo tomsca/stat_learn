@@ -79,30 +79,89 @@ print("Is this the final result?")
     - Character Constants: These constants are represented by single (‘) or double (“) quotes called delimiters.
 
 ### Data Types in R 
-
-- The basic data types in R are as follows:
-    - Numeric:
+- Numeric:
 ```r
 # In R, if we assign any decimal value to a variable it becomes a variable of a numeric data type.
 # For example, the statement below assigns a numeric data type to the variable “x”.
-x = 20.7
+x <- 20.7
 # The following statement is used to print the data type of the variable “x”:
 class(x)
-```
-```r
-# OUTPUT
-> # In R, if we assign any decimal value to a variable it becomes a variable of a numeric data type.
-> # For example, the statement below assigns a numeric data type to the variable “x”.
-> x = 20.7
-> # The following statement is used to print the data type of the variable “x”:
-> class(x)
 [1] "numeric"
 ```
-     
-    - Integer
-    - Complex
-    - Character
-    - Logical
+- Integer
+```r
+e <- as.integer(3)
+class(e)
+Output: [1] "integer"
+```
+
+```r
+# Another way of creating an integer variable is by using the L keyword as follows:
+x <- 5L
+class(x)
+Output: [1] "integer"
+```
+- Complex
+```r
+# The values containing the imaginary number ‘i’ (iota) are called complex values.
+# The following code gives an error when run:
+sqrt(-1)
+[1] NaN
+Warning message:
+In sqrt(-1) : NaNs produced
+```
+```r
+# To overcome this error, we coerce the value (−1) into a complex value and denote it as ‘i’.
+sqrt(as.complex(-1))
+[1] 0+1i
+```
+- Character
+```r
+# This data type is used to represent strings.
+# For example:
+str1 <- "Sam"
+class(str1)
+Output: [1] "character"
+```
+
+```r
+# We can also use the as.character() function to convert objects into character values.
+# For example:
+x <- as.character(100.5)
+print(x)
+Output:[1] "100.5"
+class(x)
+Output:[1] "character"
+```
+- Logical
+```r
+# A logical data type stores either of the two values: TRUE -/FALSE. A logical value is often generated when two values are compared.
+# For example:
+x <- 5
+y <- 7
+z <- x > y
+z
+Output:
+FALSE
+```
+
+```r
+# Three standard logical operations,i.e., AND (&), OR (|), and NOT (!) yield a variable of the logical data type.
+# For example:
+x <- TRUE; y <- FALSE
+x & y
+Output:
+[1] FALSE
+x | y
+Output:
+[1] TRUE
+!x
+Output:
+[1] FALSE
+```
+
+## Operators in R
+
 
 ## Resources
 - Learn R in 39 Minutes [Click me!](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
