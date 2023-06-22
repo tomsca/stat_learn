@@ -16,7 +16,7 @@
     - [ISLR-python First Edition](https://github.com/JWarmenhoven/ISLR-python/tree/master)
 
 ## Unit 0: R Programming 
-- Class Notes: [Click me!](https://intellipaat.com/blog/tutorial/r-programming/?US) [Click me!](https://www.guru99.com/r-tutorial.html) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
+- Class Notes: [R Programming](https://github.com/tomsca/stat_learn/tree/main/chapter_0) [Click me!](https://intellipaat.com/blog/tutorial/r-programming/?US) [Click me!](https://www.guru99.com/r-tutorial.html) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
   - Homework 0: [Click me!]() Project 0: [Click me!]() 
 
 ## Unit 1: Introduction to Statistical Learning
