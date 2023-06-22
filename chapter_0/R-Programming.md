@@ -15,8 +15,54 @@ R Studio is a free integrated developed environment (IDE) designed for R. It com
 
 ## Download and Install R and RStudio
 
-- To download and install R and RStudio for Windows, follow the instructions on this video [Click me!](https://www.youtube.com/watch?v=YrEe2TLr3MI)
-- To download and install R and RStudio for Mac, follow the instructions on this video [Click me!](https://www.youtube.com/watch?v=n8kP7c_QbLA)
+- For Windows, follow the instructions on this video [Click me!](https://www.youtube.com/watch?v=YrEe2TLr3MI)
+- For Mac, follow the instructions on this video [Click me!](https://www.youtube.com/watch?v=n8kP7c_QbLA)
+
+## Variables and Data Types in R
+### Basic Syntax in R
+- There are two ways to write code in RStudio:
+    1) in the command prompt
+    2) in the R script file. We will go through both one by one.
+ 1.a) Command Prompt
+    - Launch RStudio
+    - In the command prompt window, type the following:
+        - quantity = 5
+        - unit_price = 20
+        - total_cost = quantity * price
+        - print(total_cost)
+
+```r
+> quantity <- 5
+> unit_price <- 20
+> total_cost <- 5 * 20
+> print(total_cost)
+[1] 100
+```
+
+1.b) Command Prompt
+   - Launch RStudio
+   - In the command prompt window, type the following:
+     - print("Is this the final result?")
+```r
+> print("Is this the final result?")
+[1] "Is this the final result?"
+```
+
+ 2) R Script File
+   - R Programs are usually written in R scripts and then executed in the console window
+   - Create a new R script file
+   - Write the code shown in 1.a and 1.b, select the block of code you want to run, and then press Ctrl+Enter or click on ‘Run’:
+
+```r
+quantity <- 5
+unit_price <- 20
+total_cost <- 5 * 20
+print(total_cost)
+```
+```r
+print("Is this the final result?")
+```
+     
 
 ## Resources
 - Learn R in 39 Minutes [Click me!](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
