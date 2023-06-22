@@ -5,7 +5,7 @@ R is a language and environment for statistical computing and graphics. It is wi
 
 As of June 2023, R ranks 11th in the TIOBE index, a measure of programming language popularity, in which the language peaked in 8th place in August 2020. In this R tutorial, we will start by learning what exactly is R. 
 
-R is an open-source programming language,  it can be downloaded and installed for free. It is cross-platform compatible language, one can run the same R code in multiple operating systems. With the help of R language, one is able to implement various machine learning algorithms such as Linear Regression, Decision Tree, etc. This is the link to R [Click me!](https://cran.r-project.org/).
+R is an open-source programming language,  it can be downloaded and installed for free. It is cross-platform compatible language, one can run the same R code in multiple operating systems. With the help of R language, one is able to implement various machine learning algorithms such as Linear Regression, Decision Tree, etc. This is the link to R [Click me!](https://cran.r-project.org/)
 
 ## History of R
 R is a programming language developed by *Ross Ihaka* and *Robert Gentleman* at the University of Auckland, New Zealand. In April 2003, the R Foundation was founded as a non-profit organization to provide further support for the R project. In 1995, R was made a free and open-source software under the GNU General Public Licence. The first official release came in 1995 followed by the first 'stable beta' version (v1.0) released on 29th February 2000.
@@ -62,7 +62,17 @@ print(total_cost)
 ```r
 print("Is this the final result?")
 ```
-     
+
+### Variables in R Programming
+
+- A variable is a name given to a memory location, which is used to store values in a computer program.
+- Variables in R programming can be used to store numbers (real and complex), words, matrices, and even tables.
+- For a variable to be valid, it should follow these rules
+    - It should contain letters, numbers, and only dot or underscore characters.
+    - It should not start with a number (eg:- 7mauch)
+    - It should not start with a dot followed by a number (eg:- .7mauch)
+    - It should not start with an underscore (eg:- _mauch)
+    - It should not be a reserved word (see this [link](https://www.datamentor.io/r-programming/reserved-words#:~:text=Reserved%20words%20in%20R%20programming,%2C%20function%20name%20etc.))for detail!
 
 ## Resources
 - Learn R in 39 Minutes [Click me!](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
