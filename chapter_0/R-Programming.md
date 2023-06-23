@@ -32,9 +32,9 @@ R Studio is a free integrated developed environment (IDE) designed for R. It com
         - print(total_cost)
 
 ```r
-> quantity <- 5
-> unit_price <- 20
-> total_cost <- 5 * 20
+> quantity = 5
+> unit_price = 20
+> total_cost = 5 * 20
 > print(total_cost)
 [1] 100
 ```
@@ -54,9 +54,9 @@ R Studio is a free integrated developed environment (IDE) designed for R. It com
    - Write the code shown in 1.a and 1.b, select the block of code you want to run, and then press Ctrl+Enter or click on ‘Run’:
 
 ```r
-quantity <- 5
-unit_price <- 20
-total_cost <- 5 * 20
+quantity = 5
+unit_price = 20
+total_cost = 5 * 20
 print(total_cost)
 ```
 ```r
@@ -83,21 +83,21 @@ print("Is this the final result?")
 ```r
 # In R, if we assign any decimal value to a variable it becomes a variable of a numeric data type.
 # For example, the statement below assigns a numeric data type to the variable “x”.
-x <- 20.7
+x = 20.7
 # The following statement is used to print the data type of the variable “x”:
 class(x)
 [1] "numeric"
 ```
 - Integer
 ```r
-e <- as.integer(3)
+e = as.integer(3)
 class(e)
 Output: [1] "integer"
 ```
 
 ```r
 # Another way of creating an integer variable is by using the L keyword as follows:
-x <- 5L
+x = 5L
 class(x)
 Output: [1] "integer"
 ```
@@ -119,7 +119,7 @@ sqrt(as.complex(-1))
 ```r
 # This data type is used to represent strings.
 # For example:
-str1 <- "Sam"
+str1 = "Sam"
 class(str1)
 Output: [1] "character"
 ```
@@ -137,9 +137,9 @@ Output:[1] "character"
 ```r
 # A logical data type stores either of the two values: TRUE -/FALSE. A logical value is often generated when two values are compared.
 # For example:
-x <- 5
-y <- 7
-z <- x > y
+x = 5
+y = 7
+z = x > y
 z
 Output:
 FALSE
@@ -148,7 +148,7 @@ FALSE
 ```r
 # Three standard logical operations,i.e., AND (&), OR (|), and NOT (!) yield a variable of the logical data type.
 # For example:
-x <- TRUE; y <- FALSE
+x = TRUE; y = FALSE
 x & y
 Output:
 [1] FALSE
@@ -164,7 +164,7 @@ Output:
 ### R Operators
 - Arithmetic Operators
 ```r
-x <- 5; y <- 2.5
+x = 5; y = 2.5
 
 # Addition
 print(x + y)
@@ -194,8 +194,8 @@ print(x %% y)
 
 ```r
 # Vectors
-x <- c( 3.0, 2.5, 6, 9.2)
-y <- c(12.3, 3.3, 4.10, 5.9)
+x = c( 3.0, 2.5, 6, 9.2)
+y = c(12.3, 3.3, 4.10, 5.9)
 
 # Addition
 print(x + y)
