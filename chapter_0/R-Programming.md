@@ -163,11 +163,70 @@ Output:
 ## Operators in R
 ### R Operators
 - Arithmetic Operators
+```r
+x <- 5; y <- 2.5
+
+# Addition
+print(x + y)
+[1] 7.5
+
+# Subtraction
+print(x - y)
+[1] 2.5
+
+# Multiply
+print(x * y)
+[1] 12.5
+
+# Divide
+print(x / y)
+[1] 2
+
+# Exponent
+print(x^y)
+[1] 55.9017
+
+# Modulus
+print(x %% y)
+[1] 0
+```
+**Note:** The arithmetic operators can also be used to perform mathematical operations on vectors. For creating vectors, we use the `c()` function}.
+
+```r
+# Vectors
+x <- c( 3.0, 2.5, 6, 9.2)
+y <- c(12.3, 3.3, 4.10, 5.9)
+
+# Addition
+print(x + y)
+[1] 15.3  5.8 10.1 15.1
+
+# Subtraction
+print(x - y)
+[1] -9.3 -0.8  1.9  3.3
+
+# Multiplication
+print(x * y)
+[1] 36.90  8.25 24.60 54.28
+
+# Division
+ print(x / y)
+[1] 0.2439024 0.7575758 1.4634146 1.5593220
+
+# Exponent
+print(x ^ y)
+[1] 738909.81106     20.56847   1550.31563 485677.72028
+
+# Modulus
+print(x %% y)
+[1] 3.0 2.5 1.9 3.3
+```
 - Assignment Operators
 - Logical Operators
 - Relational Operators
 - Miscellaneous Operators
 
+See this [link](https://www.tutorialspoint.com/r/r_operators.htm) for more...
 
 ## Resources
 - Learn R in 39 Minutes [Click me!](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
