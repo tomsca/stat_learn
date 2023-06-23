@@ -235,6 +235,35 @@ x = 25.5
 x = 25.5
 ```
 - Logical Operators
+    - These operators are used to perform Boolean operations like `AND`, `OR`, `NOT`, etc. on variables.
+    - Different logical operators are as follows: `! (NOT)`, `& (AND element-wise)`, `&& (AND)`, `| (OR Element-wise)`, `|| (OR)`.
+    - ZEROS are taken as `FALSE` and NON-ZERO numbers are taken as `TRUE`.
+```r
+x <- c(2.5, 7, FALSE, 3 + 5i)
+y <- c(5.3 , 1, TRUE, 3 + 5i)
+
+# Element-wise Logical AND Operator
+ print(x & y)
+[1]  TRUE  TRUE FALSE  TRUE
+
+# Element-wise Logical OR Operator
+print(x | y)
+[1] TRUE TRUE TRUE TRUE
+
+# Logical NOT Operator
+print(!x)
+[1] FALSE FALSE  TRUE FALSE
+
+# Logical AND Operator
+u <- c(3, 0, TRUE, 2 + 2i)
+v <- c(1, 3, TRUE, 2 + 3i)
+print(u && v)
+
+# Logical OR Operator
+u <- c(3, 0, TRUE, 2 + 2i)
+v <- c(1, 3, TRUE, 2 + 3i)
+print(u || v)
+```
 - Relational Operators
 - Miscellaneous Operators
 
