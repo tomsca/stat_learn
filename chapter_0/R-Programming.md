@@ -255,19 +255,49 @@ print(!x)
 [1] FALSE FALSE  TRUE FALSE
 
 # Logical AND Operator
-u <- c(3, 0, TRUE, 2 + 2i)
-v <- c(1, 3, TRUE, 2 + 3i)
-print(u && v)
+a <- c(TRUE, TRUE, FALSE, FALSE)
+b <- c(TRUE, FALSE, TRUE, FALSE)
+print(a && b)
 
 # Logical OR Operator
-u <- c(3, 0, TRUE, 2 + 2i)
-v <- c(1, 3, TRUE, 2 + 3i)
-print(u || v)
+a <- c(TRUE, TRUE, FALSE, FALSE)
+b <- c(TRUE, FALSE, TRUE, FALSE)
+print(a || b)
 ```
 - Relational Operators
-- Miscellaneous Operators
+    - Relational operators are employed to compare two values or variables.
+    - To find if one is `smaller`, `greater`, `equal`, `not equal`, and other similar operations these operators are used.
+    - The result of a relational operator is always a logical value, that is either TRUE or FALSE.
 
-See this [link](https://www.tutorialspoint.com/r/r_operators.htm) for more...
+<p align="center">
+  <img width="460" height="300" src="https://i0.wp.com/makemeanalyst.com/wp-content/uploads/2017/05/Relational-Operators-in-R.png?resize=508%2C305">
+</p>
+ 
+- Miscellaneous Operators
+    - These kind of operators are used for special cases and are not for general mathematical or logical computation.
+    - For instance the `colon` operator is used to generate a series of numbers in sequence for a vector. The `%in%`operator is used to check if an element belongs to a vector or not.
+```r
+# colon Operator
+a <- 0:5
+print(a)
+[1] 0 1 2 3 4 5
+
+# %in% Operator
+a <- 2
+b <- 0:5
+ print(a %in% b)
+[1] TRUE
+```
+**Note:** This operator `%*%`, multiplies a matrix with its transpose.
+```r
+A <- matrix(1:9, nrow = 3,ncol = 3,byrow = TRUE)
+Z <- A %*% t(A)
+print(Z)
+     [,1] [,2] [,3]
+[1,]   14   32   50
+[2,]   32   77  122
+[3,]   50  122  194
+```
 
 ## Resources
 - Learn R in 39 Minutes [Click me!](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
