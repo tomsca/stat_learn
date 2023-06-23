@@ -163,6 +163,7 @@ Output:
 ## Operators in R
 ### R Operators
 - Arithmetic Operators
+    - Basic arithmetic operations include `addition`, `subtraction`, `multiplication`, `division`, `exponent`, `modulus`, etc.
 ```r
 x = 5; y = 2.5
 
@@ -221,7 +222,18 @@ print(x ^ y)
 print(x %% y)
 [1] 3.0 2.5 1.9 3.3
 ```
-- Assignment Operators
+- Assignment Operator
+    - The assignment operator is used to assign values to variables in R. There are two types of assignments: leftwards and rightwards.
+    - Operators `<-` and  `=` are used to assign values to any variable.
+```r
+# Leftwards Assignment
+x <- 25.5
+x = 25.5
+
+# Rightwards Assignment
+25.5 -> x
+x = 25.5
+```
 - Logical Operators
 - Relational Operators
 - Miscellaneous Operators
