@@ -161,9 +161,8 @@ Output:
 ```
 
 ## Operators in R
-### R Operators
-- Arithmetic Operators
-    - Basic arithmetic operations include `addition`, `subtraction`, `multiplication`, `division`, `exponent`, `modulus`, etc.
+### Arithmetic Operators
+- Basic arithmetic operations include `addition`, `subtraction`, `multiplication`, `division`, `exponent`, `modulus`, etc.
 ```r
 x = 5; y = 2.5
 
@@ -222,9 +221,9 @@ print(x ^ y)
 print(x %% y)
 [1] 3.0 2.5 1.9 3.3
 ```
-- Assignment Operator
-    - The assignment operator is used to assign values to variables in R. There are two types of assignments: leftwards and rightwards.
-    - Operators `<-` and  `=` are used to assign values to any variable.
+### Assignment Operator
+- The assignment operator is used to assign values to variables in R. There are two types of assignments: leftwards and rightwards.
+- Operators `<-` and  `=` are used to assign values to any variable.
 ```r
 # Leftwards Assignment
 x <- 25.5
@@ -234,10 +233,10 @@ x = 25.5
 25.5 -> x
 x = 25.5
 ```
-- Logical Operators
-    - These operators are used to perform Boolean operations like `AND`, `OR`, `NOT`, etc. on variables.
-    - Different logical operators are as follows: `! (NOT)`, `& (AND element-wise)`, `&& (AND)`, `| (OR Element-wise)`, `|| (OR)`.
-    - ZEROS are taken as `FALSE` and NON-ZERO numbers are taken as `TRUE`.
+### Logical Operators
+- These operators are used to perform Boolean operations like `AND`, `OR`, `NOT`, etc. on variables.
+- Different logical operators are as follows: `! (NOT)`, `& (AND element-wise)`, `&& (AND)`, `| (OR Element-wise)`, `|| (OR)`.
+- ZEROS are taken as `FALSE` and NON-ZERO numbers are taken as `TRUE`.
 ```r
 x <- c(2.5, 7, FALSE, 3 + 5i)
 y <- c(5.3 , 1, TRUE, 3 + 5i)
@@ -264,18 +263,17 @@ a <- c(TRUE, TRUE, FALSE, FALSE)
 b <- c(TRUE, FALSE, TRUE, FALSE)
 print(a || b)
 ```
-- Relational Operators
-    - Relational operators are employed to compare two values or variables.
-    - To find if one is `smaller`, `greater`, `equal`, `not equal`, and other similar operations these operators are used.
-    - The result of a relational operator is always a logical value, that is either TRUE or FALSE.
-
+### Relational Operators
+- Relational operators are employed to compare two values or variables.
+- To find if one is `smaller`, `greater`, `equal`, `not equal`, and other similar operations these operators are used.
+- The result of a relational operator is always a logical value, that is either TRUE or FALSE.
 <p align="center">
   <img width="460" height="300" src="https://i0.wp.com/makemeanalyst.com/wp-content/uploads/2017/05/Relational-Operators-in-R.png?resize=508%2C305">
 </p>
  
-- Miscellaneous Operators
-    - These kind of operators are used for special cases and are not for general mathematical or logical computation.
-    - For instance the `colon` operator is used to generate a series of numbers in sequence for a vector. The `%in%`operator is used to check if an element belongs to a vector or not.
+ ### Miscellaneous Operators
+- These kind of operators are used for special cases and are not for general mathematical or logical computation.
+- For instance the `colon` operator is used to generate a series of numbers in sequence for a vector. The `%in%`operator is used to check if an element belongs to a vector or not.
 ```r
 # colon Operator
 a <- 0:5
@@ -288,7 +286,7 @@ b <- 0:5
  print(a %in% b)
 [1] TRUE
 ```
-**Note:** This operator `%*%`, multiplies a matrix with its transpose.
+**Note:** This operator `%*%`, multiply's a matrix with its transpose.
 ```r
 A <- matrix(1:9, nrow = 3,ncol = 3,byrow = TRUE)
 Z <- A %*% t(A)
@@ -299,7 +297,50 @@ print(Z)
 [3,]   50  122  194
 ```
 
-## Resources
-- Learn R in 39 Minutes [Click me!](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
+## Data Structures in R 
+- A data structure is a format for organizing and storing data in a system to facilitate effective and efficient usage of the same.
+- They are known to make data accessing and operations easier.
+- Statistical software and programming languages have methods (or functions) designed to operate on different kinds of data structures.
+- Data Structures in R include: `Vectors`, `Lists`, `Matrices`, `Factors`, `Data Frames`, and `Arrays`.
+
+### Vectors
+- Vector is one of the basic data structures in R. It only contains elements of the same data type. Data types can be numeric, integer, character, complex, or logical.
+- Vectors are created by using the `c()` function. 
+- The `typeof()` function is used to check the data type of the vector.
+- The `class()` function is used to check the class of the vector.
+
+```r
+# Vectors
+vec_1 <- c(23, 18, 93, 45, 8)
+vec_2 <- c(15, TRUE, 22.6, "female")
+typeof(vec_1)
+[1] "double"
+typeof(vec_2)
+[1] "character"
+```
+- To delete a vector, you simply have to do the following:
+```r
+vec_1 <- NULL
+vec_2 <- NULL
+```
+
+Vec1 <- NULL
+Vec2 <- NULL
+
+### Lists
+
+### Matrices
+
+### Factors
+
+### Data Frames
+
+### Arrays
+
+  
+
+## References
+1. R Tutorials [Clcike me!](https://intellipaat.com/blog/tutorial/r-programming/data-structures-r-programming/?US)
+2. Learn R in 39 Minutes [Click me!](https://www.youtube.com/watch?v=yZ0bV2Afkjc)
 
 
