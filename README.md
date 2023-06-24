@@ -25,7 +25,7 @@
 
 ## Unit 2: Linear Regression
 - Class Notes: [Click me!]()
-    - R Tutorials: [Click me!]()
+- R Tutorials: [Click me!]()
 - Homework 2: [Click me!]()
 - Project 2: [Click me!]() 
 
