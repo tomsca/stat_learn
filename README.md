@@ -22,7 +22,7 @@
 
 ## Unit 1: Introduction to Statistical Learning
 - Class Notes: [Introduction](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Intro_to_Stat_Learning.md)
-- Homework 1: [Click me!]() 
+- Homework 1: [Click me!](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Chapter_1_HW_Problems) 
 
 ## Unit 2: Linear Regression
 - Class Notes: [Click me!]()
