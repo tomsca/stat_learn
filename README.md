@@ -17,12 +17,12 @@
 
 ## Unit 0: R Programming 
 - Class Notes: [R Programming](https://github.com/tomsca/stat_learn/blob/main/chapter_0/R-Programming.md)
-- Homework 1: [Click me!]()
-- Mini Project 1: [Click me!]() 
+- Homework 0: [Click me!]()
+- Mini Project 0: [Click me!]() 
 
 ## Unit 1: Introduction to Statistical Learning
 - Class Notes: [Introduction](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Intro_to_Stat_Learning.md)
-- Homework 2: [Click me!]() 
+- Homework 1: [Click me!]() 
 
 ## Unit 2: Linear Regression
 - Class Notes: [Click me!]()
