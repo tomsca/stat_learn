@@ -20,11 +20,11 @@
 - Homework 0: [Click me!]()
 - Mini Project 0: [Click me!]() 
 
-## Unit 1: Introduction to Statistical Learning
+## Unit 1: Introduction 
 - Class Notes: [Introduction](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Intro_to_Stat_Learning.md)
 - Homework 1: [Click me!](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Chapter_1_HW_Problems.md) 
 
-## Unit 2: Linear Regression
+## Unit 2: Statistical Learning
 - Class Notes: [Click me!]()
 - R Tutorials: [Click me!]()
 - Homework 2: [Click me!]()
