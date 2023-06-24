@@ -1,0 +1,43 @@
+# Homework 1 Problems
+
+1. What is the difference between supervised and unsupervised learning?
+    - A) Supervised learning involves predicting a response variable based on input variables, while unsupervised learning involves finding patterns or structure in a set of input variables.
+    - B) Supervised learning involves finding patterns or structure in a set of input variables, while unsupervised learning involves predicting a response variable based on input variables.
+    - C) Supervised learning involves predicting a response variable based on input variables and feedback from a teacher, while unsupervised learning involves finding patterns or structure in a set of input variables without feedback.
+    - D) Supervised learning involves finding patterns or structure in a set of input variables and feedback from a teacher, while unsupervised learning involves predicting a response variable based on input variables without feedback.
+    - Answer: A
+
+2. What are some examples of regression problems?
+    - A) Predicting the price of a house based on its size, location, and features.
+    - B) Predicting whether a patient has cancer or not based on their symptoms and test results.
+    - C) Predicting the number of views for a YouTube video based on its title, description, and tags.
+    - D) All of the above.
+    - Answer: A
+
+3. What are some examples of classification problems?
+    - A) Predicting the price of a house based on its size, location, and features.
+    - B) Predicting whether a patient has cancer or not based on their symptoms and test results.
+    - C) Predicting the number of views for a YouTube video based on its title, description, and tags.
+    - D) All of the above.
+    - Answer: B
+
+4. What is the difference between parametric and non-parametric methods?
+    - A) Parametric methods assume that the data follows a certain distribution or model, while non-parametric methods do not make any assumptions about the data distribution or model.
+    - B) Parametric methods do not assume that the data follows a certain distribution or model, while non-parametric methods make some assumptions about the data distribution or model.
+    - C) Parametric methods involve estimating a fixed number of parameters from the data, while non-parametric methods involve estimating an increasing number of parameters as more data becomes available.
+    - D) Both A and C are correct.
+    - Answer: D
+
+5. What is the difference between inference and prediction?
+    - A) Inference involves estimating the relationship between the input and output variables, while prediction involves using the input variables to produce an output variable.
+    - B) Inference involves using the input variables to produce an output variable, while prediction involves estimating the relationship between the input and output variables.
+    - C) Inference involves estimating the uncertainty or variability of the output variable, while prediction involves estimating the accuracy or precision of the output variable.
+    - D) Inference involves estimating the accuracy or precision of the output variable, while prediction involves estimating the uncertainty or variability of the output variable.
+    - Answer: A
+
+6. What are some advantages and disadvantages of a flexible statistical learning method?
+    - A) Advantages: It can capture complex patterns in the data and achieve high accuracy. Disadvantages: It can overfit the data and have poor interpretability.
+    - B) Advantages: It can avoid overfitting the data and have high interpretability. Disadvantages: It can miss complex patterns in the data and have low accuracy.
+    - C) Advantages: It can capture complex patterns in the data and have high interpretability. Disadvantages: It can overfit the data and have low accuracy.
+    - D) Advantages: It can avoid overfitting the data and have high accuracy. Disadvantages: It can miss complex patterns in the data and have poor interpretability.
+    - Answer: A
