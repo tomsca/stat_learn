@@ -17,7 +17,7 @@
 
 ## Unit 0: R Programming 
 - Class Notes: [R Programming](https://github.com/tomsca/stat_learn/blob/main/chapter_0/R-Programming.md)
-- Python Tutorials: [Click me!]()
+    - R Tutorials: [Click me!]()
 - Homework 1: [Click me!]()
 - Mini Project 1: [Click me!]() 
 
@@ -26,8 +26,7 @@
 
 ## Unit 2: Linear Regression
 - Class Notes: [Click me!]()
-- R Tutorials: [Click me!]()
-- Python Tutorials: [Click me!]()
+    - R Tutorials: [Click me!]()
 - Homework 2: [Click me!]()
 - Project 2: [Click me!]() 
 
