@@ -20,7 +20,7 @@
   - Homework 0: [Click me!]() Project 0: [Click me!]() 
 
 ## Unit 1: Introduction to Statistical Learning
-- Class Notes: [Click me!]() R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
+- Class Notes: [Introduction](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Intro_to_Stat_Learning.md) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
   - Homework 1: [Click me!]() Project 1: [Click me!]() 
 
 ## Unit 2: Linear Regression
