@@ -1,4 +1,4 @@
-# Unit 1: Introduction to Statistical Learning
+# Unit 1: Introduction
 ## Statistical Learning Problems
 
 1. Identify the risk factors for prostate cancer.
