@@ -16,16 +16,20 @@
     - [ISLR-python First Edition](https://github.com/JWarmenhoven/ISLR-python/tree/master)
 
 ## Unit 0: R Programming 
-- Class Notes: [R Programming](https://github.com/tomsca/stat_learn/blob/main/chapter_0/R-Programming.md) [Click me!](https://intellipaat.com/blog/tutorial/r-programming/?US) [Click me!](https://www.guru99.com/r-tutorial.html) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
-  - Homework 0: [Click me!]() Project 0: [Click me!]() 
+- Class Notes: [R Programming](https://github.com/tomsca/stat_learn/blob/main/chapter_0/R-Programming.md)
+- Python Tutorials: [Click me!]()
+- Homework 1: [Click me!]()
+- Mini Project 1: [Click me!]() 
 
 ## Unit 1: Introduction to Statistical Learning
-- Class Notes: [Introduction](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Intro_to_Stat_Learning.md) R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
-  - Homework 1: [Click me!]() Project 1: [Click me!]() 
+- Class Notes: [Introduction](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Intro_to_Stat_Learning.md) 
 
 ## Unit 2: Linear Regression
-- Class Notes: [Click me!]() R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
-  - Homework 2: [Click me!]() Project 2: [Click me!]() 
+- Class Notes: [Click me!]()
+- R Tutorials: [Click me!]()
+- Python Tutorials: [Click me!]()
+- Homework 2: [Click me!]()
+- Project 2: [Click me!]() 
 
 ## Unit 3: Classification
 - Class Notes: [Click me!]() R Tutorials: [Click me!]() Python Tutorials: [Click me!]()
