@@ -37,3 +37,9 @@
 ## Test 1 (Homework 0 - 3 & Project 0 - 3)
  - Test 1: [Click me!]()
 
+## Final Class Project
+
+### Resources
+
+1) [Machine Learning Open Source Software](https://www.jmlr.org/mloss/)
+
