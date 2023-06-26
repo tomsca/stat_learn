@@ -21,6 +21,7 @@
 - Mini Project 0: [Click me!]() 
 
 ## Unit 1: Introduction 
+- [Textbook - Chapter 1](https://hastie.su.domains/ISLR2/Slides/Ch1_Inroduction.pdf)
 - Class Notes: [Introduction](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Intro_to_Stat_Learning.md)
 - Homework 1: [Click me!](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Chapter_1_HW_Problems.md) 
 
