@@ -26,6 +26,8 @@
 - Homework 1: [Click me!](https://github.com/tomsca/stat_learn/blob/main/chapter_1/Chapter_1_HW_Problems.md) 
 
 ## Unit 2: Statistical Learning
+- [Textbook - Chapter 2](https://hastie.su.domains/ISLR2/Slides/Ch2_Statistical_Learning.pdf)
+- [Textbook - Chapter 2 (Lab.R)]([https://hastie.su.domains/ISLR2/Slides/Ch2_Statistical_Learning.pdf](https://hastie.su.domains/ISLR2/Labs/R_Labs/Ch2-statlearn-lab.R))
 - Class Notes: [Click me!]()
 - R Tutorials: [Click me!]()
 - Homework 2: [Click me!]()
